@@ -1,8 +1,4 @@
-Perfeito! Estás no caminho certo — o repositório já está estruturado e quase pronto para o deploy final. Vamos então atualizar o `README.md` com a versão completa, profissional e informativa, como prometido.
-
----
-
-### 📝 Conteúdo atualizado para `README.md` (copia e cola no GitHub):
+`README.md` 
 
 ````markdown
 # 🧠 People360 – Gestão de Recursos Humanos Inteligente (PT/EN)
