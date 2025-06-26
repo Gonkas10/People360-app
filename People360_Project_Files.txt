@@ -1,0 +1,94 @@
+🧒 Nome da App:
+O Meu Desenho
+
+🧠 Tipo de app:
+Infantil, educativa, interativa. WebApp / PWA com interface moderna e colorida.
+
+🎯 Público-alvo:
+Crianças dos 5 aos 12 anos, com foco secundário nos pais como facilitadores.
+
+📲 Função principal:
+Permitir que crianças registem os seus desejos e sonhos de forma simples e divertida, com visual colorido, sistema de conquistas e conteúdos mágicos seguros.
+
+---
+
+🧩 Funcionalidades:
+
+1. Página Inicial:
+- Campo para nome ou apelido da criança
+- Escolha de avatar simpático
+- Botão: "Começar a Sonhar"
+
+2. Página de Desejos:
+- Lista com cartões coloridos
+- Cada cartão mostra:
+  - Ícone do desejo
+  - Título
+  - Estado: Pendente / Realizado
+  - Botões: Editar, Concluir, Eliminar
+
+3. Criar novo desejo:
+- Campo de texto
+- Upload opcional de imagem/desenho
+- Botão: “Guardar Desejo”
+
+4. Conquistas:
+- Sistema de autocolantes, estrelas ou troféus
+- Mensagens motivacionais para reforço positivo
+
+5. Descobertas Mágicas:
+- Página com conteúdos patrocinados (vídeos ou jogos)
+- Título: “Descobre algo mágico hoje”
+- Clicável, com rastreamento de cliques
+
+---
+
+🎨 Design:
+
+- Interface moderna, intuitiva e infantil
+- Ícones grandes e acessíveis
+- Tipografia sem serifas, arredondada
+- Paleta de cores:
+
+  - Rosa Pêssego `#FFD3B4`
+  - Azul Céu Suave `#A7E9FF`
+  - Amarelo Girassol `#FFF176`
+  - Verde Menta `#C8FACC`
+  - Lavanda Claro `#DCC6E0`
+  - Azul-Marinho Claro `#4F86C6`
+  - Branco `#FFFFFF`
+  - Cinzento Neutro `#F5F5F5`
+
+---
+
+🔐 Segurança e Privacidade:
+
+- Sem login obrigatório
+- Sem recolha de dados sensíveis
+- Mensagem visível: “App gratuita com publicidade segura”
+- Área de ajuda para pais com perguntas frequentes e contacto
+
+---
+
+💰 Monetização:
+
+- Integrar anúncios via Google AdMob
+  - Banner permanente discreto no rodapé
+  - Anúncios clicáveis na secção "Descobertas Mágicas"
+- Contagem de impressões e cliques
+- Preparada para ligação a conta Google AdMob com pagamento via SEPA
+
+---
+
+📦 Requisitos Técnicos:
+
+- Criar como WebApp ou Progressive Web App (PWA)
+- Compatível com Android e iOS (via navegador ou instalação direta)
+- Exportável como app standalone ou embed (iframe)
+- Pronto para campanhas publicitárias em Meta Ads
+
+---
+
+📌 Observação Final:
+Dar prioridade à leveza da app, navegação fácil, rapidez e UX intuitiva. Idealmente sem pop-ups nem distrações excessivas. Design adaptado para visualização em ecrãs pequenos (telemóveis/tablets).
+
