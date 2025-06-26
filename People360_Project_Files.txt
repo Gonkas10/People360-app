@@ -1,94 +1,135 @@
-🧒 Nome da App:
-O Meu Desenho
-
-🧠 Tipo de app:
-Infantil, educativa, interativa. WebApp / PWA com interface moderna e colorida.
-
-🎯 Público-alvo:
-Crianças dos 5 aos 12 anos, com foco secundário nos pais como facilitadores.
-
-📲 Função principal:
-Permitir que crianças registem os seus desejos e sonhos de forma simples e divertida, com visual colorido, sistema de conquistas e conteúdos mágicos seguros.
+📦 People360 – Aplicação de Gestão de Recursos Humanos Inteligente (PT/EN)
 
 ---
 
-🧩 Funcionalidades:
+📘 Nome do Projeto:
+People360
 
-1. Página Inicial:
-- Campo para nome ou apelido da criança
-- Escolha de avatar simpático
-- Botão: "Começar a Sonhar"
+🌐 Domínio:
+people360.vercel.app
 
-2. Página de Desejos:
-- Lista com cartões coloridos
-- Cada cartão mostra:
-  - Ícone do desejo
-  - Título
-  - Estado: Pendente / Realizado
-  - Botões: Editar, Concluir, Eliminar
-
-3. Criar novo desejo:
-- Campo de texto
-- Upload opcional de imagem/desenho
-- Botão: “Guardar Desejo”
-
-4. Conquistas:
-- Sistema de autocolantes, estrelas ou troféus
-- Mensagens motivacionais para reforço positivo
-
-5. Descobertas Mágicas:
-- Página com conteúdos patrocinados (vídeos ou jogos)
-- Título: “Descobre algo mágico hoje”
-- Clicável, com rastreamento de cliques
+📄 Descrição:
+Plataforma digital SaaS inteligente de gestão de Recursos Humanos para PMEs, com IA integrada e interface responsiva. Permite gerir recrutamento, onboarding, avaliação, formação, assiduidade, salários, prémios e offboarding – tudo num único sistema.
 
 ---
 
-🎨 Design:
-
-- Interface moderna, intuitiva e infantil
-- Ícones grandes e acessíveis
-- Tipografia sem serifas, arredondada
-- Paleta de cores:
-
-  - Rosa Pêssego `#FFD3B4`
-  - Azul Céu Suave `#A7E9FF`
-  - Amarelo Girassol `#FFF176`
-  - Verde Menta `#C8FACC`
-  - Lavanda Claro `#DCC6E0`
-  - Azul-Marinho Claro `#4F86C6`
-  - Branco `#FFFFFF`
-  - Cinzento Neutro `#F5F5F5`
+🔧 Tecnologias:
+- Firebase (Auth, Firestore, Hosting)
+- FlutterFlow / React / Firebase Studio
+- Vertex AI / OpenAI API
+- Stripe (pagamentos)
+- HTML5/CSS/JS
+- Webflow (site institucional)
 
 ---
 
-🔐 Segurança e Privacidade:
-
-- Sem login obrigatório
-- Sem recolha de dados sensíveis
-- Mensagem visível: “App gratuita com publicidade segura”
-- Área de ajuda para pais com perguntas frequentes e contacto
-
----
-
-💰 Monetização:
-
-- Integrar anúncios via Google AdMob
-  - Banner permanente discreto no rodapé
-  - Anúncios clicáveis na secção "Descobertas Mágicas"
-- Contagem de impressões e cliques
-- Preparada para ligação a conta Google AdMob com pagamento via SEPA
+🧩 Módulos da Plataforma:
+1. **Recrutamento Inteligente**
+2. **Onboarding Segmentado**
+3. **Avaliação de Desempenho**
+4. **Gestão de Formação & Certificação**
+5. **Controlo de Assiduidade**
+6. **Gestão de Payroll & Contratos**
+7. **Prémios e Bónus**
+8. **Offboarding Estratégico**
+9. **Dashboard com Análise Preditiva (IA)**
 
 ---
 
-📦 Requisitos Técnicos:
-
-- Criar como WebApp ou Progressive Web App (PWA)
-- Compatível com Android e iOS (via navegador ou instalação direta)
-- Exportável como app standalone ou embed (iframe)
-- Pronto para campanhas publicitárias em Meta Ads
+🌍 Idiomas:
+- Português (PT)
+- Inglês (EN)
 
 ---
 
-📌 Observação Final:
-Dar prioridade à leveza da app, navegação fácil, rapidez e UX intuitiva. Idealmente sem pop-ups nem distrações excessivas. Design adaptado para visualização em ecrãs pequenos (telemóveis/tablets).
+🎯 Público-Alvo:
+Pequenas e Médias Empresas (PMEs) em crescimento com 5 a 100 colaboradores.
 
+---
+
+💼 Funcionalidades-chave:
+- Login com email corporativo
+- Painel dinâmico com métricas e recomendações
+- Módulos ativáveis conforme plano
+- Personalização de perfis e equipas
+- IA para análise de desempenho e sugestões
+
+---
+
+💸 Planos e Preços:
+- **Free trial:** 30 dias
+- **Starter:** 9,99€/mês
+- **Pro:** 19,99€/mês
+- **Enterprise:** sob consulta
+
+---
+
+🤝 Programa de Afiliados:
+- Landing page dedicada
+- 5€ por cada subscrição paga
+- Link único por afiliado
+
+---
+
+🎨 Paleta de Cores:
+- Azul Profundo `#003366`
+- Azul Claro `#66CCFF`
+- Verde Claro `#99CC99`
+- Cinzento Neutro `#4A4A4A`
+- Branco `#FFFFFF`
+
+---
+
+🔐 Segurança & RGPD:
+- Autenticação Firebase com domínios restritos
+- Proteção de dados sensíveis
+- Controlo de permissões por perfil
+
+---
+
+🧠 Inteligência Artificial:
+- Motor de IA para análise de desempenho
+- Recomendações automáticas de formação
+- Sugestões de recrutamento e retenção
+- Assistente virtual com NLP
+
+---
+
+📢 Marketing:
+- Posicionamento: “Soluções de RH integradas para PMEs ambiciosas”
+- Slogan: “People360 – Porque as Pessoas estão no Centro”
+- Estratégia: SEO, campanhas Meta Ads, parceiros estratégicos
+
+---
+
+🛠️ Requisitos Técnicos:
+- App Web responsiva (PWA)
+- Compatível com Chrome, Edge, Safari, Android e iOS
+- Exportável em iframe ou standalone
+
+---
+
+📁 Estrutura recomendada do projeto:
+people360/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── App.tsx
+├── .gitignore
+├── firebase.json
+├── package.json
+└── README.md
+
+---
+
+✅ Status: MVP em desenvolvimento
+🔗 Link repositório: github.com/Gonkas10/People360-app
+🌐 Link app: https://people360-g6m3w6jg2-bizsofts-projects.vercel.app/
+
+---
+
+📌 Observações Finais:
+Este projeto é escalável, com arquitetura modular e preparado para internacionalização. Tem como foco a automação de RH, usabilidade e insights orientados por dados.
