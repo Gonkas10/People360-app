@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 240">
+  <defs>
+    <style>
+      .crest-text-small { font: 700 26px 'Montserrat', 'Arial Rounded MT Bold', sans-serif; fill: #fff; }
+      .crest-text-large { font: 800 32px 'Montserrat', 'Arial Rounded MT Bold', sans-serif; fill: #f4cb2f; }
+      .headline { font: 900 64px 'Montserrat', 'Arial Black', sans-serif; fill: #23339a; letter-spacing: 1px; }
+      .subtitle { font: 800 24px 'Montserrat', 'Arial Black', sans-serif; fill: #f4cb2f; letter-spacing: 0.3em; }
+      .topline { font: 800 22px 'Montserrat', 'Arial Black', sans-serif; fill: #f4cb2f; letter-spacing: 0.18em; }
+    </style>
+    <g id="crest">
+      <path d="M20 30 L150 15 L235 50 L220 190 L110 225 L20 180 Z" fill="#23339a" stroke="#fff" stroke-width="10" />
+      <path d="M60 55 L150 35 L205 60 L193 165 L118 195 L60 165 Z" fill="#fff" stroke="#23339a" stroke-width="6" />
+      <path d="M90 75 L150 60 L183 75 L175 150 L128 170 L90 150 Z" fill="#23339a" stroke="#f4cb2f" stroke-width="5" />
+      <circle cx="142" cy="118" r="38" fill="#f4cb2f" stroke="#23339a" stroke-width="6" />
+      <path d="M118 80 L165 80 L165 156 L118 156 Z" fill="#23339a" />
+      <text x="108" y="125" class="crest-text-small">C F</text>
+      <text x="110" y="155" class="crest-text-large">S I</text>
+    </g>
+  </defs>
+
+  <rect width="2000" height="240" fill="#fff" />
+  <rect y="0" width="2000" height="16" fill="#23339a" />
+  <rect y="224" width="2000" height="16" fill="#23339a" />
+  <rect y="16" width="2000" height="8" fill="#f4cb2f" />
+  <rect y="216" width="2000" height="8" fill="#f4cb2f" />
+
+  <g transform="translate(70,8) scale(0.85)">
+    <use href="#crest" />
+  </g>
+  <g transform="translate(1930,8) scale(-0.85,0.85)">
+    <use href="#crest" />
+  </g>
+
+  <text x="1000" y="64" text-anchor="middle" class="topline">CORAGEM • FORÇA • SUPERAÇÃO • IDENTIDADE</text>
+  <text x="1000" y="140" text-anchor="middle" class="headline">CLUBE FUTEBOL SANTA IRIA</text>
+  <text x="1000" y="190" text-anchor="middle" class="subtitle">FUNDADO EM 1927</text>
+</svg>
