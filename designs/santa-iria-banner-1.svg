@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 240">
+  <defs>
+    <style>
+      .crest-text-small { font: 700 26px 'Montserrat', 'Arial Rounded MT Bold', sans-serif; fill: #fff; }
+      .crest-text-large { font: 800 32px 'Montserrat', 'Arial Rounded MT Bold', sans-serif; fill: #f4cb2f; }
+      .headline { font: 900 72px 'Montserrat', 'Arial Black', sans-serif; fill: #fff; letter-spacing: 0.5px; }
+      .tagline { font: 800 20px 'Montserrat', 'Arial Black', sans-serif; fill: #f4cb2f; letter-spacing: 0.1em; }
+    </style>
+    <g id="crest">
+      <path d="M20 30 L150 15 L235 50 L220 190 L110 225 L20 180 Z" fill="#1f2f92" stroke="#fff" stroke-width="10" />
+      <path d="M60 55 L150 35 L205 60 L193 165 L118 195 L60 165 Z" fill="#fff" stroke="#1f2f92" stroke-width="6" />
+      <path d="M90 75 L150 60 L183 75 L175 150 L128 170 L90 150 Z" fill="#1f2f92" stroke="#f4cb2f" stroke-width="5" />
+      <circle cx="142" cy="118" r="38" fill="#f4cb2f" stroke="#1f2f92" stroke-width="6" />
+      <path d="M118 80 L165 80 L165 156 L118 156 Z" fill="#1f2f92" />
+      <text x="108" y="125" class="crest-text-small">C F</text>
+      <text x="110" y="155" class="crest-text-large">S I</text>
+    </g>
+  </defs>
+
+  <rect width="2000" height="240" fill="#23339a" />
+  <rect y="12" width="2000" height="12" fill="#f4cb2f" opacity="0.9" />
+  <rect y="216" width="2000" height="12" fill="#f4cb2f" opacity="0.9" />
+
+  <g transform="translate(70,8) scale(0.85)">
+    <use href="#crest" />
+  </g>
+  <g transform="translate(1930,8) scale(-0.85,0.85)">
+    <use href="#crest" />
+  </g>
+
+  <text x="1000" y="138" text-anchor="middle" class="headline">#SouSantaIria</text>
+  <text x="1000" y="178" text-anchor="middle" class="tagline">TORCIDA AZUL E AMARELA</text>
+</svg>
